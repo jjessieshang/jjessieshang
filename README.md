@@ -2,7 +2,7 @@
 Hey there 👋, I'm Jessie Shang
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=25&color=e8bcf0&lines=Volleyball-enthusiast;Biomedical+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=25&color=e8bcf0&center=true&lines=Volleyball-enthusiast;Biomedical+solutions)](https://git.io/typing-svg)
 
 <!--
 **jjessieshang/jjessieshang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
