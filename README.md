@@ -1,9 +1,9 @@
 ### Hey there 👋, I'm Jessie Shang
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Volleyball-enthusiast;Biomedical+solutions)](https://git.io/typing-svg)
+
 <!--
 **jjessieshang/jjessieshang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Volleyball-enthusiast;Biomedical+solutions)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
