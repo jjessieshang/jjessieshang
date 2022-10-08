@@ -2,8 +2,15 @@
 Hey there 👋, I'm Jessie Shang
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=25&color=e8bcf0&center=true&lines=Volleyball-enthusiast;Biomedical+solutions)](https://git.io/typing-svg)
 
+I am a second-year computer engineering student at the University of British Columbia. Reach me at [jyshang@student.ubc.ca]( mailto:jyshang@student.ubc.ca)!
+
+<details open>
+<summary>Fun Fact</summary>
+<br>
+	:volleyball: Eat, sleep, breathe volleyball. I spent the last couple of years competing across Canada on the Alberta Provincial Volleyball and Beach Volleyball teams. 
+
+</details>
 
 <!--
 **jjessieshang/jjessieshang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
