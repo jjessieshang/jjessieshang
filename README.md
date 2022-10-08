@@ -4,10 +4,6 @@ Hey there 👋, I'm Jessie Shang
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?size=25&color=e8bcf0&center=true&lines=Volleyball-enthusiast;Biomedical+solutions)](https://git.io/typing-svg)
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/shangjessie"
 
 <!--
 **jjessieshang/jjessieshang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
